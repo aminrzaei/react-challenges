@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Nice Game",
+      "description": "I enjoy playing this",
+      "id": 1
+    },
+    {
+      "title": "Hana is playing stronghold",
+      "description": "nice gameplay",
+      "id": 2
+    },
+    {
+      "title": "Hi",
+      "description": "How Are you",
+      "userId": "109559097971696625146",
+      "id": 3
+    }
+  ]
+}
